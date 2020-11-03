@@ -36,6 +36,6 @@
         "whatwg-fetch": "^3.0.0"
     },
     "dependencies": {
-        "laravel-mix-tailwind": "^0.1.0"
+        "laravel-mix-tailwind": "^0.1.1"
     }
 }
